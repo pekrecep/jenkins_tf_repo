@@ -1,10 +1,10 @@
 variable "account_id" {
   type = string
-  default = "503271535804"
+  default = "your-account-id"
 }
 variable "bucket_name" {
   type = string
-  default = "jenkins-test-ra2282024"
+  default = "jenkins-bucket-name"
 }
 variable "aws_linux_ami" {
   type = string
